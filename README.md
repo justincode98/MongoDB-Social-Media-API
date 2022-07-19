@@ -7,6 +7,8 @@ Routes contain routes used in the API calls.
 
 Controller contain implementation of the calls.
 
+Utils contains only dateFormat, which uses Moment.js for timestamping.
+
 ## Installation
 Download the code and run **npm start** 
 
