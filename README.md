@@ -10,7 +10,7 @@ Controller contain implementation of the calls.
 Utils contains only dateFormat, which uses Moment.js for timestamping.
 
 ## Installation
-Download the code and run **npm start** 
+Download the code and run **npm install** , then run **npm start**
 
 ## Usage
 After running **npm start**, use insomnia to make requests. Server runs on port 3001, routes can be found in their respective route files. 
